@@ -65,6 +65,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Eurostat](https://ec.europa.eu/eurostat) – European Union economic statistics.
 - [UN Data](https://data.un.org/) – Global economic and social indicators.
 - [Open Economic Data](https://openeconomicdata.org/) – Index of open economic datasets.
+- [Eulerpool](https://eulerpool.com/developers) – Financial data API with macroeconomic series from FRED, ECB, IMF, World Bank, Eurostat, OECD and BIS.
 
 ## Computational Economics
 
