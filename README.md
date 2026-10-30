@@ -73,6 +73,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [QuantEcon](https://quantecon.org/) – Open-source computational economics tools.
 - [JuliaEconomics](https://github.com/JuliaEconomics) – Julia packages for economic modeling.
 - [PyEcon](https://github.com/jessegrabowski/py-econ) – Python tools for economic simulation.
+- [onet-match](https://github.com/Benjamin-V-Chan/onet-match) – Python tool that codes job titles and job postings to O*NET-SOC occupations for labor-market analysis.
 
 ## Policy & Development Economics
 
