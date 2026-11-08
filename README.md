@@ -66,6 +66,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [UN Data](https://data.un.org/) – Global economic and social indicators.
 - [Open Economic Data](https://openeconomicdata.org/) – Index of open economic datasets.
 - [Eulerpool](https://eulerpool.com/developers) – Financial data API with macroeconomic series from FRED, ECB, IMF, World Bank, Eurostat, OECD and BIS.
+- [ClockInToday No-Interview Jobs Data](https://clockintoday.com/report/) – Monthly dataset on minimum ages, background checks, payout speed and worker classification across 112 US gig and no-interview job platforms (CSV, CC BY 4.0).
 
 ## Computational Economics
 
